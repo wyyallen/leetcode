@@ -1,11 +1,6 @@
 package twopoints;
 
 /**
- * @author yiwang <wangyi08@kuaishou.com>
- * Created on 2019-05-05
- */
-
-/**
  * 162 寻找峰值
  * 峰值元素是指其值大于左右相邻值的元素。
  *
@@ -38,6 +33,7 @@ public class FindPeakElement {
                 left = mid +1;
             }
         }
+
         return left;
     }
 
