@@ -1,4 +1,4 @@
-package twopoints;
+package binarySearch;
 
 /**
  * 162 寻找峰值
