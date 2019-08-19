@@ -41,7 +41,7 @@ public class SortUtils {
      * @param right
      * @return
      */
-    public static int quickSort(int[] array,int left,int right){
+    public static int quickSort(int[] array,int left,int right) {
         int temp = array[right];
         while (left < right){
             while (left < right && array[left] <= temp){
