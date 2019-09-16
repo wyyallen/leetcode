@@ -51,7 +51,7 @@ public class KthSmallest {
      * 可将每一行作为归并排序的一个分支，然后使用归并排序的策略进行排序并查找
      */
     public int kthSmallest(int[][] matrix, int k) {
-
+        return 0;
     }
 
     /**
